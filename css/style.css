@@ -1,0 +1,85 @@
+
+
+body {
+  width: 905px;
+  margin: auto;
+  padding-top: 30px;
+}
+
+header img {
+  /* display: inline; */
+  float: left;
+}
+
+#text {
+  float: left;
+  padding-left: 10px;
+}
+
+/* #words {
+  display: inline-flex;
+  float: right;
+  padding-left: 8px;
+} */
+
+#iconContainer {
+  width: 30%;
+  float: right;
+  padding-top: 10px;
+}
+
+.icon {
+  float: right;
+  padding: 1px;
+}
+
+.iconLeft {
+  padding-left: 10px;
+}
+
+header h2 {
+  font-family: 'Yellowtail', cursive;
+  font-size: 2.25em;
+  margin-top: -10px;
+}
+
+header h6 {
+  font-family: 'Play', sans-serif;
+  margin-top: -35px;
+}
+/* 
+header {
+   display: inline-flex;
+   */
+  /* display: flex; */
+  /* flex-direction: column;
+} 
+
+
+
+
+/* header  
+fork knife icon on :left
+delicious styled
+words below delicious
+icons to right, six icons, space and two icons
+... add span for icons
+add break hashes */
+/* body
+header, paragraph to :left
+print symbol right, inline with paragraph
+big picture-centered, width of \page
+
+paragraph breaks between, aligned to :left, indented Paragraphs
+
+list image, overlay the ingrediants
+
+add line break hashes */
+/* 
+venessa picture to left
+her name next to picture, with description under name
+button to right of name area
+
+footer
+line across page, broken by that small logo centered
+text centered with logo about, 30px */
