@@ -47,16 +47,56 @@ header h6 {
   font-family: 'Play', sans-serif;
   margin-top: -35px;
 }
-/* 
-header {
-   display: inline-flex;
-   */
-  /* display: flex; */
-  /* flex-direction: column;
-} 
+#pizzaTitle{
+  float: left;
+  padding-top: 30px;
+}
+
+main h2 {
+  font-family: 'Play', sans-serif;
+}
+
+p{
+  text-indent: 50px;
+  line-height: -20px;
+}
+
+#container {
+  position: relative;
+  /* text-align: center; */
+
+}
 
 
+#listOne {
+  position: absolute;
+  top: 40px;
+  float: left;
+  
+ 
+}
 
+#listTwo {
+  position: absolute;
+  top: 40px;
+  right: 30px;
+}
+
+button {
+  display: block;
+  font-size: 15px;
+  text-align: center;
+  border-radius: 5px;
+  background-color: salmon;
+  height: 30px;
+  width: 150px;
+  margin: 15px;
+  float: right;
+
+}
+footer {
+  text-align: center;
+}
 
 /* header  
 fork knife icon on :left
